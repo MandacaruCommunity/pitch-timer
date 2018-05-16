@@ -2,6 +2,7 @@
   "name": "pitch-counter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mandacarucommunity.github.io/pitch-timer/",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "react": "^16.3.2",
