@@ -18,7 +18,7 @@ class Counter extends Component {
   }
 
   judgeTimer (event) {
-    this.setState ({seconds: 121, fadeIn: false});
+    this.setState ({seconds: 181, fadeIn: false});
   }
 
   startTimer (event) {
